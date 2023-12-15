@@ -2,4 +2,9 @@
 
 A RESTful API for a task manager app with full user authentication
 
+## Technologies Used
+
+- NodeJS (express)
+- MongoDB (mongoose)
+
 Documentation soon... :>
